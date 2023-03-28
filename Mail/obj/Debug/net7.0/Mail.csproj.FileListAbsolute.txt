@@ -1,0 +1,12 @@
+D:\Source\CleanArchitecture\Mail\bin\Debug\net7.0\Mail.deps.json
+D:\Source\CleanArchitecture\Mail\bin\Debug\net7.0\Mail.dll
+D:\Source\CleanArchitecture\Mail\bin\Debug\net7.0\Mail.pdb
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.csproj.AssemblyReference.cache
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.AssemblyInfoInputs.cache
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.AssemblyInfo.cs
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.csproj.CoreCompileInputs.cache
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.dll
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\refint\Mail.dll
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\Mail.pdb
+D:\Source\CleanArchitecture\Mail\obj\Debug\net7.0\ref\Mail.dll

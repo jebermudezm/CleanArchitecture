@@ -1,0 +1,10 @@
+D:\Source\CleanArchitecture\CleanArchitecture.Database\bin\Debug\CleanArchitecture.Database.dacpac
+D:\Source\CleanArchitecture\CleanArchitecture.Database\bin\Debug\CleanArchitecture.Database.dll
+D:\Source\CleanArchitecture\CleanArchitecture.Database\bin\Debug\CleanArchitecture.Database.pdb
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\CleanArchitecture.Database.sqlproj.AssemblyReference.cache
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\CleanArchitecture.Database.dll
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\CleanArchitecture.Database.pdb
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\Model.xml
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\refactor.xml
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\postdeploy.sql
+D:\Source\CleanArchitecture\CleanArchitecture.Database\obj\Debug\predeploy.sql

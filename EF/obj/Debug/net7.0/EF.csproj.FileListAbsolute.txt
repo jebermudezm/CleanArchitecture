@@ -1,0 +1,17 @@
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\EF.deps.json
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\EF.runtimeconfig.json
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\EF.dll
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\EF.pdb
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.csproj.AssemblyReference.cache
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.AssemblyInfoInputs.cache
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.AssemblyInfo.cs
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.csproj.CoreCompileInputs.cache
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.dll
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\refint\EF.dll
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.pdb
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.genruntimeconfig.cache
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\ref\EF.dll
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\Entities.dll
+D:\Source\CleanArchitecture\EF\bin\Debug\net7.0\Entities.pdb
+D:\Source\CleanArchitecture\EF\obj\Debug\net7.0\EF.csproj.CopyComplete

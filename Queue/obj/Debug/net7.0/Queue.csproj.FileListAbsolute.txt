@@ -1,0 +1,12 @@
+D:\Source\CleanArchitecture\Queue\bin\Debug\net7.0\Queue.deps.json
+D:\Source\CleanArchitecture\Queue\bin\Debug\net7.0\Queue.dll
+D:\Source\CleanArchitecture\Queue\bin\Debug\net7.0\Queue.pdb
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.csproj.AssemblyReference.cache
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.AssemblyInfoInputs.cache
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.AssemblyInfo.cs
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.csproj.CoreCompileInputs.cache
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.dll
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\refint\Queue.dll
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\Queue.pdb
+D:\Source\CleanArchitecture\Queue\obj\Debug\net7.0\ref\Queue.dll
