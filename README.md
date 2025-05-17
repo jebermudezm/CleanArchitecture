@@ -5,6 +5,7 @@ Este repositorio contiene un ejemplo de implementación de la arquitectura limpi
 ---
 
 ## 🧱 Estructura del Proyecto
+
 ```text
 CleanArchitecture/
 ├── Application/       # Lógica de negocio (casos de uso)
@@ -12,7 +13,7 @@ CleanArchitecture/
 ├── Infrastructure/    # Acceso a datos, servicios externos, implementación de interfaces
 ├── WebApi/            # Capa de presentación (API REST)
 └── README.md
-
+```
 
 ---
 
@@ -30,10 +31,10 @@ CleanArchitecture/
 
 ## 📌 Principios Aplicados
 
-- Separación de responsabilidades
-- Inversión de dependencias
-- Programación orientada a interfaces
-- Inyección de dependencias
+- Separación de responsabilidades  
+- Inversión de dependencias  
+- Programación orientada a interfaces  
+- Inyección de dependencias  
 - Patrón CQRS con MediatR
 
 ---
@@ -44,30 +45,40 @@ CleanArchitecture/
 
    ```bash
    git clone https://github.com/jebermudezm/cleanarchitecture.git
-Abre la solución en Visual Studio o Visual Studio Code.
+   ```
 
-Configura la cadena de conexión en WebApi/appsettings.json.
+2. Abre la solución en Visual Studio o Visual Studio Code.
 
-Aplica las migraciones (si estás usando EF Core):
+3. Configura la cadena de conexión en `WebApi/appsettings.json`.
 
-bash
-Copiar
-Editar
-dotnet ef database update
-Ejecuta el proyecto. La API estará disponible en:
+4. Aplica las migraciones (si estás usando EF Core):
 
-bash
-Copiar
-Editar
-https://localhost:{puerto}/swagger
-📚 Recursos Recomendados
-Clean Architecture - Robert C. Martin
+   ```bash
+   dotnet ef database update
+   ```
 
-Documentación oficial de MediatR
+5. Ejecuta el proyecto. La API estará disponible en:
 
-Entity Framework Core
+   ```
+   https://localhost:{puerto}/swagger
+   ```
 
-🙋 Autor
-Joaquín Bermúdez Medina
-Software Engineer | Cloud & Architecture Enthusiast
-LinkedIn (opcional)
+---
+
+## 📚 Recursos Recomendados
+
+- [Clean Architecture - Robert C. Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [Documentación oficial de MediatR](https://github.com/jbogard/MediatR)
+- [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
+
+---
+
+## 🙋 Autor
+
+**Joaquín Bermúdez Medina**  
+Software Engineer | Cloud & Architecture Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/tuusuario/) <!-- opcional -->
+
+---
+
+> Este proyecto es solo un ejemplo educativo y puede adaptarse a las necesidades de cada aplicación real.
